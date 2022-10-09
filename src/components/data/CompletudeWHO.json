@@ -1,0 +1,183 @@
+{
+    "headers": [
+      {
+        "name": "dx",
+        "column": "Data",
+        "valueType": "TEXT",
+        "type": "java.lang.String",
+        "hidden": false,
+        "meta": true
+      },
+      {
+        "name": "ou",
+        "column": "Organisation unit",
+        "valueType": "TEXT",
+        "type": "java.lang.String",
+        "hidden": false,
+        "meta": true
+      },
+      {
+        "name": "pe",
+        "column": "Period",
+        "valueType": "TEXT",
+        "type": "java.lang.String",
+        "hidden": false,
+        "meta": true
+      },
+      {
+        "name": "value",
+        "column": "Value",
+        "valueType": "NUMBER",
+        "type": "java.lang.Double",
+        "hidden": false,
+        "meta": false
+      }
+    ],
+    "metaData": {
+      "items": {
+        "201912": {
+          "name": "December 2019"
+        },
+        "jUb8gELQApl": {
+          "name": "Kailahun"
+        },
+        "TEQlaapDQoK": {
+          "name": "Port Loko"
+        },
+        "eIQbndfxQMb": {
+          "name": "Tonkolili"
+        },
+        "Vth0fbpFcsO": {
+          "name": "Kono"
+        },
+        "PMa2VCrupOd": {
+          "name": "Kambia"
+        },
+        "ou": {
+          "name": "Organisation unit"
+        },
+        "O6uvpzGd5pu": {
+          "name": "Bo"
+        },
+        "bL4ooGhyHRQ": {
+          "name": "Pujehun"
+        },
+        "kJq2mPyFEHo": {
+          "name": "Kenema"
+        },
+        "eZDhcZi6FLP.REPORTING_RATE": {
+          "name": "Morbidity Reporting rate"
+        },
+        "fdc6uOvgoji": {
+          "name": "Bombali"
+        },
+        "at6UHUQatSo": {
+          "name": "Western Area"
+        },
+        "dx": {
+          "name": "Data"
+        },
+        "pe": {
+          "name": "Period"
+        },
+        "lc3eMKXaEfw": {
+          "name": "Bonthe"
+        },
+        "qhqAxPSTUXp": {
+          "name": "Koinadugu"
+        },
+        "jmIPBj66vD6": {
+          "name": "Moyamba"
+        }
+      },
+      "dimensions": {
+        "dx": [
+          "eZDhcZi6FLP.REPORTING_RATE"
+        ],
+        "pe": [
+          "201912"
+        ],
+        "ou": [
+          "O6uvpzGd5pu",
+          "fdc6uOvgoji",
+          "lc3eMKXaEfw",
+          "jUb8gELQApl",
+          "PMa2VCrupOd",
+          "kJq2mPyFEHo",
+          "qhqAxPSTUXp",
+          "Vth0fbpFcsO",
+          "jmIPBj66vD6",
+          "TEQlaapDQoK",
+          "bL4ooGhyHRQ",
+          "eIQbndfxQMb",
+          "at6UHUQatSo"
+        ],
+        "co": []
+      }
+    },
+    "width": 4,
+    "height": 10,
+    "rows": [
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "kJq2mPyFEHo",
+        "201912",
+        "96.7"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "bL4ooGhyHRQ",
+        "201912",
+        "1.5"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "jUb8gELQApl",
+        "201912",
+        "94.8"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "PMa2VCrupOd",
+        "201912",
+        "90.3"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "O6uvpzGd5pu",
+        "201912",
+        "81.6"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "Vth0fbpFcsO",
+        "201912",
+        "71.8"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "eIQbndfxQMb",
+        "201912",
+        "89.2"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "fdc6uOvgoji",
+        "201912",
+        "91.7"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "at6UHUQatSo",
+        "201912",
+        "88.3"
+      ],
+      [
+        "eZDhcZi6FLP.REPORTING_RATE",
+        "jmIPBj66vD6",
+        "201912",
+        "96.8"
+      ]
+    ],
+    "headerWidth": 4
+  }

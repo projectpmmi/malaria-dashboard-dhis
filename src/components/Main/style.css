@@ -1,0 +1,8 @@
+#main {
+    display: flex;
+    padding: 32px;
+}
+
+.padded-card {
+    padding: 32px;
+}

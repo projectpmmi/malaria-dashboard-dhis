@@ -1,0 +1,409 @@
+{
+      "groups": [
+        {
+          "code": "G1",
+          "name": "Malaria prevention"
+        },
+          {
+          "code": "G2",
+          "name": "Malaria testing"
+        },
+          {
+          "code": "G3",
+          "name": "Malaria cases"
+        },
+          {
+          "code": "G4",
+          "name": "Malaria treatment"
+        },
+          {
+          "code": "G5",
+          "name": "Malaria commodity availability"
+        },
+          {
+          "code": "G6",
+          "name": "Malaria mortality"
+        }    
+      ],
+      "indicator": [
+          {
+          "id": "1.1",
+          "name": "Number of children under 5 who received ITN",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          
+          {
+          "id": "1.2",
+          "name": "Number of pregnant women who received ITN",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "1.3",
+          "name": "Number of nets distributed to pregnant women",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "1.4",
+          "name": "Number of nets distributed through mass campaign",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "1.5",
+          "name": "Total number of nets(ITNs) distributed",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "1.6",
+          "name": "Vector control activities",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "1.7",
+          "name": "Intermittent preventive treatment of malaria during pregnancy (IPTp) coverage ",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G1"	  
+        },
+          {
+          "id": "2.1",
+          "name": "Number of OPD visits for children (< 5) ",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.2",
+          "name": "Number of children (< 5) with fever",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.3",
+          "name": "Number of children (5-14) with fever",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.4",
+          "name": "Number of people (15+) with fever",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.5",
+          "name": "Number of children (< 5) with fever tested (RDT or microscopy)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.6",
+          "name": "Number of children (5-14) with fever tested (RDT or microscopy)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "2.7",
+          "name": "Number of people (15+) with fever tested (RDT or microscopy)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G2"	  
+        },
+          {
+          "id": "3.1",
+          "name": "Number of children (< 5)   with confirmed malaria (tested positive with RDT)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.2",
+          "name": "Number of children (5-14) with confirmed malaria (tested positive with RDT)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.3",
+          "name": "Number of people (15+) with confirmed malaria (tested positive with RDT)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.4",
+          "name": "Number of pregnant women with confirmed malaria (tested positive with RDT)",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.5",
+          "name": "Number of cases tested negative with RDT across all categories",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.6",
+          "name": "Number of confirmed malaria cases ",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.7",
+          "name": "Number of presumed malaria cases",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.8",
+          "name": "Number of children (<5) with severe malaria",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.9",
+          "name": "Number of children (5-14) with severe malaria",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.10",
+          "name": "Number of people (15+) with severe malaria",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "3.11",
+          "name": "Number of severe malaria cases referred",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G3"	  
+        },
+          {
+          "id": "4.1",
+          "name": "Number of children (< 5) with confirmed malaria receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.2",
+          "name": "Number of children (5-14) with confirmed malaria receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.3",
+          "name": "Number of people (15+) with confirmed malaria receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.4",
+          "name": "Number of children (<5) receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.5",
+          "name": "Number of children  (5-14) receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.6",
+          "name": "Number of people (15+) receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.7",
+          "name": "Number of severe cases referred",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.8",
+          "name": "Number of cases that tested negative with RDT receiving ACT",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.9",
+          "name": "Number of malaria confirmed cases cured after ACT treatment",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          {
+          "id": "4.10",
+          "name": "Number of severe malaria cases treated and cured",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G4"	  
+        },
+          
+          {
+          "id": "5.1",
+          "name": "Number of facilities with Stock out of ACTs for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.2",
+          "name": "Number of facilities with Stock out of RDTs for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.3",
+          "name": "Number of facilities with Stock out of SP for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.4",
+          "name": "Number of facilities with Stock out of injectible artesunate for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.5",
+          "name": "Number of facilities with Stock out of rectal artestunate for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.6",
+          "name": "Number of facilities with Stock out of ITN for 7 consecutive days in the past month",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.7",
+          "name": "Number of facilities with Available inventory of ITNs",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "5.8",
+          "name": "Number of facilities with Available inventory of ACTs",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G5"	  
+        },
+          {
+          "id": "6.1",
+          "name": "% children (< 5) malaria deaths",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G6"	  
+        },
+          {
+          "id": "6.2",
+          "name": "% children (5-14) malaria deaths",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G6"	  
+        },
+          {
+          "id": "6.3",
+          "name": "% children (< 5) malaria deaths",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G6"	  
+        },
+          {
+          "id": "6.4",
+          "name": "% people (15+) malaria deaths",
+            "type": "",
+          "uid": "",
+            "name_dhis": "",
+            "code_group": "G6"	  
+        }	
+          
+      ]
+}

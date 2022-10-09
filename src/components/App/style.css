@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: rgba(0,0,10,.05);
+}
+
+.marge {
+    padding-left: 10;
+    padding-right: 10;
+}
+
+div.margin {
+    margin-left: 0;
+    margin-right: 0;
+}
